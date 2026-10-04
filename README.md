@@ -2,8 +2,8 @@
 Learning GIT
 
 
-git --global user.name "Name"
-git --global. user.email email
+git config --global user.name "Name"
+git config --global. user.email email
 git config --list. # to check changes
 
 git log.    #to check all commits
@@ -20,7 +20,7 @@ git branch -M "Rename".    # to rename branch
 git checkout branchname.    # to change branch
 git checkout -b new branch name    # to create new branch
 git branch -D branchname.      #to delete branch
-git bush origin branchname
+git push origin branchname
 
 git diff brachname.   #to compare two branches
 git merge branchname   #to merge two branches
