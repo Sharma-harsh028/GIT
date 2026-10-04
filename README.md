@@ -19,3 +19,6 @@ git checkout branchname.    # to change branch
 git checkout -b new branch name    # to create new branch
 git branch -d branchname.      #to delete branch
 git bush origin branchname
+
+git diff brachname.   #to compare two branches
+git merge branchname   #to merge two branches
