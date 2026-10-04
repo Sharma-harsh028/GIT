@@ -33,4 +33,6 @@ git reset HEAD~1.   #restore previous state
 git reset hashvalue.  #to reset at particular commit
 git reset --hard hashvalue.  #hard reset
 
+git push origin --delete branchname.  #to delete branch from remote
+
 
