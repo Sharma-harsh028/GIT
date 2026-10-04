@@ -22,3 +22,4 @@ git bush origin branchname
 
 git diff brachname.   #to compare two branches
 git merge branchname   #to merge two branches
+git pull origin main.  #to fetch content from remote
