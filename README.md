@@ -1,7 +1,7 @@
 # GIT
 Learning GIT
 
-
+git init #to initiate git 
 git config --global user.name "Name"
 git config --global. user.email email
 git config --list. # to check changes
@@ -34,5 +34,8 @@ git reset hashvalue.  #to reset at particular commit
 git reset --hard hashvalue.  #hard reset
 
 git push origin --delete branchname.  #to delete branch from remote
+
+git stash
+git ignore 
 
 
